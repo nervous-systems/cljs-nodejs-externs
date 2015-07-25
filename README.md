@@ -8,4 +8,4 @@ There's no original work here - this project is a repackaging of [existing Closu
 
 # License
 
-[Apache License, Version 2.0][http://www.apache.org/licenses/LICENSE-2.0.html], per [node.js-closure-compiler-externs](https://github.com/dcodeIO/node.js-closure-compiler-externs).
+[Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html), per [node.js-closure-compiler-externs](https://github.com/dcodeIO/node.js-closure-compiler-externs).
