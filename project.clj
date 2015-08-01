@@ -1,4 +1,4 @@
-(defproject io.nervous/cljs-nodejs-externs "0.2.0"
+(defproject io.nervous/cljs-nodejs-externs "0.2.0-SNAPSHOT"
   :description "Packaged externs for the Node.js standard library + utilities"
   :url "https://github.com/nervous-systems/cljs-nodejs-externs"
   :license {:name "Apache 2.0" :url "http://www.apache.org/licenses/LICENSE-2.0"}
