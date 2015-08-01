@@ -1,5 +1,5 @@
-#!/bin/sh
+#!/usr/bin/env zsh
 
 lein npm install && \
     mkdir -pv resources/cljs-nodejs-externs/externs && \
-    cp node_modules/nodejs-externs/externs/*.js resources/cljs-nodejs-externs/externs
+    cp node_modules/closurecompiler-externs/**/*.js resources/cljs-nodejs-externs/externs

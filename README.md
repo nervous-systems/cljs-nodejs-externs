@@ -4,6 +4,8 @@
 
 Adding `cljs-nodejs-externs` as a dependency of a Clojurescript project will allow it to use the Node.js standard library used alongside `:optimizations` `:advanced`.  The standard library modules continue to be imported as usual (i.e. `cljs.nodejs/require`).
 
+Externs for `express` and `ws` are also included.
+
 There's no original work here - this project is a repackaging of [existing Closure externs for Node.js](https://github.com/dcodeIO/node.js-closure-compiler-externs), with a `deps.cljs` including each file in `:externs`.
 
 # License

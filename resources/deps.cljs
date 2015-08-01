@@ -1,4 +1,6 @@
-{:externs ["cljs-nodejs-externs/externs/assert.js"
+{:externs ["cljs-nodejs-externs/externs/Express.js"
+           "cljs-nodejs-externs/externs/Ws.js"
+           "cljs-nodejs-externs/externs/assert.js"
            "cljs-nodejs-externs/externs/buffer.js"
            "cljs-nodejs-externs/externs/child_process.js"
            "cljs-nodejs-externs/externs/cluster.js"
